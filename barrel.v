@@ -1,3 +1,4 @@
+`timescale 10ns/1ns
 module barrel(data,ctr,dir,out);
 
 input [7:0] data;   //input data
